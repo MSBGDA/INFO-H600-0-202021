@@ -1,3 +1,6 @@
+### Author: Kubam Ivo
+### Date: 10/1/2020
+
 radius = int(input("Enter the radius of the circle: "))
 area = 3.14 * (radius ** 2)
 circum = 2 * 3.14 * radius
