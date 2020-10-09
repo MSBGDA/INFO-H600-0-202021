@@ -1,0 +1,150 @@
+[33mcommit 067b28eacc6e5bb8dc3ad9f3b8ff693191baa864[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8314829 f95d9fd
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Thu Oct 8 20:43:41 2020 +0200
+
+    Merge pull request #4 from MSBGDA/IvoMbi
+    
+    added hello wold
+
+[33mcommit f95d9fd37a4d4634a8bc696dc27ad703112aac6f[m
+Author: ivombi <ivombi97@gmail.com>
+Date:   Thu Oct 8 20:40:04 2020 +0200
+
+    added hello wold
+
+[33mcommit 8314829e9ce527a85b15ad0f446333088885bc57[m
+Merge: 6eff109 9598b31
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Thu Oct 8 18:37:40 2020 +0200
+
+    Merge pull request #3 from MSBGDA/IvoMbi
+    
+    header added
+
+[33mcommit 9598b31d88cf972fcce0ff47886ebc38cda092da[m
+Author: ivombi <ivombi97@gmail.com>
+Date:   Thu Oct 8 18:34:32 2020 +0200
+
+    header added
+
+[33mcommit 6eff1097ebe2bb35c4a737aa074f2de6eb2b080f[m
+Merge: 297ba32 a741f4a
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Wed Oct 7 11:55:43 2020 +0200
+
+    Merge pull request #2 from MSBGDA/IvoMbi
+    
+    Ivo mbi
+
+[33mcommit a741f4a06f906c73dc3e42e5f2b27939a43f2f02[m
+Author: ivombi <ivombi97@gmail.com>
+Date:   Wed Oct 7 11:52:06 2020 +0200
+
+    solutions 1-9
+
+[33mcommit 15e5c575589ba0851af72a4815efc46eeb8afd53[m
+Merge: ade5a72 297ba32
+Author: ivombi <ivombi97@gmail.com>
+Date:   Mon Oct 5 10:40:53 2020 +0200
+
+    Merge branch 'main' of https://github.com/MSBGDA/INFO-H600-0-202021 into IvoMbi
+
+[33mcommit 297ba32f1c146e5c96da2f2018ae9cd725311fb4[m[33m ([m[1;32morigin[m[33m)[m
+Author: ivombi <ivombi97@gmail.com>
+Date:   Sun Oct 4 16:29:13 2020 +0200
+
+    solutions 1-5
+
+[33mcommit 04d3bb8edc68c8545b5eafce7d11184def6f766f[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sun Oct 4 16:24:00 2020 +0200
+
+    Add files via upload
+    
+    solutions 1-5
+
+[33mcommit e86a18a81847ff0e2cbdefa21d0675b15f5fe385[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sun Oct 4 16:23:21 2020 +0200
+
+    Delete tp02.ipynb
+
+[33mcommit 4724fe8c708de50f9f95ad7bf0252cb555d9e918[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sun Oct 4 15:27:24 2020 +0200
+
+    Delete Ex1
+    
+    file is empty
+
+[33mcommit 9e9d512bcb7c6dc5a7c228115b45ff404a0fb89a[m
+Author: ivombi <ivombi97@gmail.com>
+Date:   Sun Oct 4 15:23:16 2020 +0200
+
+    solutions to exercises 1-4
+
+[33mcommit ade5a72d9f88fbaee59b51851e2bceba0219b155[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 11:58:50 2020 +0200
+
+    Delete Ex1
+
+[33mcommit 692e7db60e46a0a6a98a9db9ecd2736ae8526937[m
+Author: Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 09:45:48 2020 +0000
+
+    edited file extension
+
+[33mcommit 4740f1161c2226975aa597f2a1ab2f9373c0c236[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 11:19:30 2020 +0200
+
+    Create Ex1
+
+[33mcommit e6acabeb53c9ad28be3a8ec5e3b22f66ae16bac1[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 11:17:59 2020 +0200
+
+    Delete Topic-Two
+
+[33mcommit 8c16d81e57e50ceb0331891ed08fec8d8d367d74[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 11:10:31 2020 +0200
+
+    Create Topic-Two
+
+[33mcommit 8efe10b4b0e013cf7142b14434975d44529c74b8[m
+Merge: e44a878 9f9f0ff
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 11:07:26 2020 +0200
+
+    Merge pull request #1 from MSBGDA/IvoMbi
+    
+    header
+
+[33mcommit 9f9f0ffd46159d79ada975f0cdcbcffa586469d9[m
+Author: Ivo Mbi <ivombi97@gmail.com>
+Date:   Sat Oct 3 09:00:44 2020 +0000
+
+    header
+
+[33mcommit e44a8787264baff7c2f647beb77af7d1cc6438cb[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Fri Oct 2 13:33:14 2020 +0200
+
+    Add files via upload
+
+[33mcommit fbf28d91041d42268a0ae9f9a8db2e9d2d7b0586[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Fri Oct 2 13:32:35 2020 +0200
+
+    Create tp01
+    
+    Solutions to exercises in topic one
+
+[33mcommit 664112ec09837ada20308bd52a0641bd60ad79ef[m
+Author: Kubam Ivo Mbi <ivombi97@gmail.com>
+Date:   Fri Oct 2 13:27:34 2020 +0200
+
+    Initial commit
