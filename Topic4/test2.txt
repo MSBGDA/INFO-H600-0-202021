@@ -1,0 +1,6 @@
+zero
+un
+deux
+trois
+quatre
+cinq
