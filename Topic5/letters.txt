@@ -1,0 +1,6 @@
+A  E  3
+E  O  2
+I  U  3
+P  R  4
+U  I  1
+Y  A  3
